@@ -19,6 +19,8 @@
 - **Postgres**
 - **Redis**
 - **Elasticsearch**
+- **MongoDB**
+- **Cassandra**
 
 #### Message Brokers
 - **RabbitMQ**
