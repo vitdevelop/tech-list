@@ -38,7 +38,7 @@
 - **nfs-client-provisioner**
 - **Prometheus**
 - **Grafana**
-- **efk*
+- **efk**
 - **Traefic**
 - **Jaeger**
 - **Kiali**
