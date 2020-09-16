@@ -44,7 +44,9 @@
 - [ **nfs-client-provisioner** ](https://github.com/kubernetes-retired/external-storage/tree/master/nfs-client)
 - [ **Prometheus** ](https://prometheus.io/)
 - [ **Grafana** ](https://grafana.com/)
-- **efk**
+- [ **Elasticsearch** ](https://www.elastic.co/elasticsearch)
+- [ **Fluentd** ](https://www.fluentd.org)
+- [ **Kibana** ](https://www.elastic.co/kibana)
 - [ **Traefic** ](https://github.com/traefik/traefik)
 - [ **Jaeger** ](https://www.jaegertracing.io/)
 - [ **Kiali** ](https://kiali.io/)
