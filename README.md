@@ -12,6 +12,8 @@
 
 #### Frameworks
 - **Spring**
+- **Spring Cloud Sleuth**
+- **Spring Cloud Kubernetes**
 
 #### Databases
 - **Postgres**
@@ -30,7 +32,28 @@
 - [**K9s**](https://github.com/derailed/k9s)
 - [**Kind**](https://kind.sigs.k8s.io/)
 
+#### Kubernetes Packages
+- **istio**
+- **metallb**
+- **nfs-client-provisioner**
+- **Prometheus**
+- **Grafana**
+- **efk*
+- **Traefic**
+- **Jaeger**
+- **Kiali**
+
+#### Kubernetes Local Dev
+- **jib**
+- **Cloud Code**
+- **Skafford**
+
+#### CICD
+- **Jenkins**
+- **ArgoCD**
+
 #### Linux
-- **Bash**
+- **bash**
+- **vim**
 
 
